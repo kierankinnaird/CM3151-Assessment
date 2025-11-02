@@ -1,6 +1,6 @@
 # CM3151 - Vehicle Noise Classification
 
-This project builds a machine learning classifier to predict whether a car is +Quiet+ or +Noisy+ using the UK Government's Fuel Consumption and Emissions dataset.
+This project builds a machine learning classifier to predict whether a car is *Quiet* or *Noisy* using the UK Government's Fuel Consumption and Emissions dataset.
 
 ## Folder Structure
 - 'data/' - raw and cleaned datasets (not tracked by Git)
